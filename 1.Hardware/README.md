@@ -1,8 +1,8 @@
-立创开源平台链接：https://oshwhub.com/eedadada/fed36bbc19da4527b237982f9cd09f99
+#### 立创开源平台链接：https://oshwhub.com/eedadada/fed36bbc19da4527b237982f9cd09f99
 
 PCB为4层板，电路及布局基本与稚晖君原版Peak无异。
 
-器件链接参考：
+#### 器件链接参考：
 
 - 电池：[伯朗 导航行车记录仪锂电池大容量通用3.7v聚合物胎压蓝牙耳机5V-tmall.com天猫](https://detail.tmall.com/item.htm?id=579820162048&spm=a1z09.2.0.0.5eaf2e8dkwSGBJ&_u=b2bdtj0f1990) 分类：耐高温80度-603450-1200毫安
 - 外壳固定铜柱：[M2*4/5/6/8/9/10/11/12 双通 监控铜柱 滚花安防铜柱（10只）-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5eaf2e8dkwSGBJ&id=555117890802&_u=b2bdtj0fff40) 分类：双通 M2*4
