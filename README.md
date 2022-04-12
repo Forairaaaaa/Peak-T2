@@ -7,7 +7,6 @@
 - https://github.com/peng-zhihui/Peak
 - https://github.com/FASTSHIFT/X-TRACK
 
-B站介绍：[视频去哪了呢？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1934y1e74z/)
-
+B站介绍：https://www.bilibili.com/video/BV1934y1e74z?share_source=copy_web
 
 
