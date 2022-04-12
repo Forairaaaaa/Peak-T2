@@ -1,4 +1,4 @@
-![](5.Pics/Peak-T2.28.png)
+![](https://gitee.com/forairaaaaa/peak-t2/raw/master/5.Pics/Peak-T2.28.png)
 
 # 基于ESP32的2.0英寸触摸屏小终端
 
