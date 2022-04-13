@@ -40,3 +40,4 @@ PCB为4层板，电路及布局基本与稚晖君原版Peak无异。
 - LCD屏幕：[2寸lcd显示屏2.0寸显示屏高清ips显示屏st7789驱动spi/并口240320-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5eaf2e8dkwSGBJ&id=653306169973&_u=b2bdtj0faa53)
 - 电容触摸屏：[2寸CTP电容触摸屏2.0寸小尺寸触摸屏 FT6236U FT6336G CST026-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5eaf2e8dkwSGBJ&id=607113397517&_u=b2bdtj0f8e5c)
 - CP2102可用CH9102X代替
+
