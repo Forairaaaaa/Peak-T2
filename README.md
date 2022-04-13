@@ -1,4 +1,4 @@
-![](https://gitee.com/forairaaaaa/peak-t2/raw/master/5.Pics/Peak-T2.28.png)
+![](https://gitee.com/forairaaaaa/peak-t2/raw/master/5.Pics/Peak-T2.28_s.png)
 
 # 基于ESP32的2.0英寸触摸屏小终端
 
@@ -26,4 +26,8 @@
 | USB接口  | Type-C座，CP2102自动下载电路                              |
 
 详细参考链接：[1.Hardware · Forairaaaaa/Peak-T2 - 码云 - 开源中国 (gitee.com)](https://gitee.com/forairaaaaa/peak-t2/tree/master/1.Hardware)
+
+
+
+
 
