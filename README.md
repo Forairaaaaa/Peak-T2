@@ -1,4 +1,5 @@
-![](https://gitee.com/forairaaaaa/peak-t2/raw/master/5.Pics/Peak-T2.28_s.png)
+![](https://raw.githubusercontent.com/Forairaaaaa/Peak-T2/master/5.Pics/Peak-T2.28_s.png)
+
 
 # 基于ESP32的2.0英寸触摸屏小终端
 
